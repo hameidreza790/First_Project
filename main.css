@@ -10,5 +10,8 @@ body {
 
 h1 {
   color: white;
-  border: 1px solid black;
+  /* border: 1px solid black; */
+  text-align: center;
+  font-size: 8rem;
+  margin-top: 20%;
 }
